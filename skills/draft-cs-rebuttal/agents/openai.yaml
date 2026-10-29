@@ -1,0 +1,4 @@
+interface:
+  display_name: "顶会 Rebuttal 助手"
+  short_description: "基于审稿意见与论文证据，生成中文回应策略、英文 Rebuttal 及修改清单"
+  default_prompt: "请使用 $draft-cs-rebuttal，根据我的论文与审稿意见，先分析真实关切和回应策略，再撰写有证据支持的英文 Rebuttal，并列出必要的补充实验与论文修改。"
